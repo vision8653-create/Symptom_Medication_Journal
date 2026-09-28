@@ -1,4 +1,4 @@
-# Symptom and Medication Journal
+# Symptom and Medication Journalhggr
 
 ## 📌**Overview**
 
